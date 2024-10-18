@@ -294,8 +294,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 📫 Contact
 
-For any inquiries or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, please contact s22360.pan@stu.scie.com/cn.
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Your Name](https://github.com/PStarH)
